@@ -1,0 +1,17 @@
+{
+  "sizes": [
+    16,
+    24,
+    32,
+    48,
+    64,
+    128,
+    256
+  ],
+  "preserve_aspect": true,
+  "add_transparency": false,
+  "output_path": "G:/Python_Code/000_Icon/图标_麻将",
+  "last_input_dir": "G:/Python_Code/Mahjong_Calculator/麻将图",
+  "window_geometry": "01d9d0cb0003000000000091000000f6000003b20000036d0000009200000115000003b10000036c000000000000000007800000009200000115000003b10000036c",
+  "sizes_exact": true
+}

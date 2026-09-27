@@ -1,10 +1,11 @@
-软件截图：
+# 软件截图 - v1.6.0
 
-![image](https://github.com/user-attachments/assets/77552e98-2bf8-46b1-9ea1-c468ab807ac0)
+<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/cd6c6965-f290-4d96-a57e-4bc2deff2c56" />
+
 
 ---
 
-# 图片转ICO图标转换器 · 完全使用手册
+# 图片转ICO图标转换器 · 完全使用手册 v1.6.0
 
 **版本 1.6.0** | **作者：杜玛** | **永久版权** | **MIT 开源许可证**
 
